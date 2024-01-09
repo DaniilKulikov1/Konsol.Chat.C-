@@ -1,2 +1,4 @@
 ﻿  Main.cpp
+D:\lab\repos\Konsol.Chat.C-\data\ASCII\Main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  LINK : не найден или не выполнена сборка D:\lab\repos\Konsol.Chat.C-\data\ASCII\x64\Debug\ASCII.exe при последней инкрементной компоновке; выполняется полная компоновка
   ASCII.vcxproj -> D:\lab\repos\Konsol.Chat.C-\data\ASCII\x64\Debug\ASCII.exe
